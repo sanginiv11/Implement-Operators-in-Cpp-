@@ -1,1 +1,3 @@
 # implement-Operators-in-C-
+Aim: Calculate student's grade.
+Theory: This C++ program calculates a student's average percentage and grade based on the marks entered for five subjects. It takes input for marks, labeled 'm1' through 'm5'. The program computes the average using the formula '(m1 + m2 + m3 + m4 + m5) / 5.0' and then displays the percentage. It uses 'if-else' statements to check the percentage range and print the corresponding grade, such as "O", "A+", or "B". If the average is below 40, it will print "Fail". This program shows how to use conditional logic, perform arithmetic operations, and handle basic input/output in C++.
