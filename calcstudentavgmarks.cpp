@@ -41,5 +41,13 @@ int main() {
 
     return 0;
 }
+/* OUTPUT
+Enter subject-1 marks: 99
+Enter subject-2 marks: 98
+Enter subject-3 marks: 96
+Enter subject-4 marks: 87
+Enter subject-5 marks: 100
+Percentage: 96%
+Grade: O */
 
 
