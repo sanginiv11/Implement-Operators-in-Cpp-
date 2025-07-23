@@ -25,3 +25,7 @@ int main() {
     }
     return 0;
 }
+/*OUTPUT
+Enter x coordinate: 04
+Enter y coordinate: -11
+Point (4, -11) is in Quadrant IV. */
